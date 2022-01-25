@@ -1,0 +1,11 @@
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\MessageApp\MessageApp\bin\Debug\MessageApp.exe.config
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\MessageApp\MessageApp\bin\Debug\MessageApp.exe
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\MessageApp\MessageApp\bin\Debug\MessageApp.pdb
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.AssemblyReference.cache
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\MessageApp\MessageApp\obj\Debug\MessageApp.Properties.Resources.resources
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.GenerateResource.cache
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.CoreCompileInputs.cache
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\MessageApp\MessageApp\obj\Debug\MessageApp.exe
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\MessageApp\MessageApp\obj\Debug\MessageApp.pdb
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\MessageApp\MessageApp\obj\Debug\MessageApp.Form1.resources

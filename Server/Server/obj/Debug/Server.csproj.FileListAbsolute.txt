@@ -1,0 +1,7 @@
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\Server\Server\bin\Debug\Server.exe
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\Server\Server\bin\Debug\Server.pdb
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\Server\Server\obj\Debug\Server.exe
+C:\Users\lando\Desktop\Coding\C#\RD\Networking\Server\Server\obj\Debug\Server.pdb

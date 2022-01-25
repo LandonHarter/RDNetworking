@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe152ba2-5afd-4003-987e-ae93fa227b13": {
+      "ProjectGuid": "fe152ba2-5afd-4003-987e-ae93fa227b13",
+      "DisplayName": "MessageApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
